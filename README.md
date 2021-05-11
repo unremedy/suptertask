@@ -1,6 +1,5 @@
 ## RK 2
 
-
 сборка
 
 ```sh
@@ -12,3 +11,5 @@ $ cmake --build _build --target install
 ```sh
 $ cmake --build _build --target test -- ARGS=--verbose
 ```
+
+[![Build Status](https://travis-ci.org/unremedy/suptertask.svg?branch=master)](https://travis-ci.org/unremedy/suptertask)
