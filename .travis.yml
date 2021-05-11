@@ -100,7 +100,7 @@ install:
 
   # Install dependencies (CMake, Android NDK)
   - POLLY_SOURCE_DIR="/home/unremedy/unremedy/workspace/projects/suptertask"
-  - python3 "/bin/install-ci-dependencies.py"
+  #- python3 "/bin/install-ci-dependencies.py"
 
   # Tune locations
   - export PATH="/home/unremedy/unremedy/workspace/projects/suptertask/_ci/cmake/bin:/home/unremedy/unremedy/workspace/projects/suptertask/clang-bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
