@@ -1,0 +1,12 @@
+/home/unremedy/unremedy/workspace/projects/suptertask/_build/CMakeFiles/install/strip.dir
+/home/unremedy/unremedy/workspace/projects/suptertask/_build/CMakeFiles/edit_cache.dir
+/home/unremedy/unremedy/workspace/projects/suptertask/_build/CMakeFiles/test.dir
+/home/unremedy/unremedy/workspace/projects/suptertask/_build/CMakeFiles/package_source.dir
+/home/unremedy/unremedy/workspace/projects/suptertask/_build/CMakeFiles/install.dir
+/home/unremedy/unremedy/workspace/projects/suptertask/_build/CMakeFiles/list_install_components.dir
+/home/unremedy/unremedy/workspace/projects/suptertask/_build/CMakeFiles/rebuild_cache.dir
+/home/unremedy/unremedy/workspace/projects/suptertask/_build/CMakeFiles/package.dir
+/home/unremedy/unremedy/workspace/projects/suptertask/_build/CMakeFiles/check.dir
+/home/unremedy/unremedy/workspace/projects/suptertask/_build/CMakeFiles/install/local.dir
+/home/unremedy/unremedy/workspace/projects/suptertask/_build/CMakeFiles/demo.dir
+/home/unremedy/unremedy/workspace/projects/suptertask/_build/CMakeFiles/sum.dir
