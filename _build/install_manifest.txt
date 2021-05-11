@@ -1,4 +1,0 @@
-/home/unremedy/unremedy/workspace/projects/suptertask/_install/lib/libsum.a
-/home/unremedy/unremedy/workspace/projects/suptertask/_install/include/sumh.h
-/home/unremedy/unremedy/workspace/projects/suptertask/_install/cmake/sum-config.cmake
-/home/unremedy/unremedy/workspace/projects/suptertask/_install/cmake/sum-config-noconfig.cmake

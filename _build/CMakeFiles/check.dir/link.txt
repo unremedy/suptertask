@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/check.dir/tests/test.cpp.o  -o check  libsum.a /home/unremedy/.hunter/_Base/5659b15/252be92/8a1641b/Install/lib/libgtest_maind.a /home/unremedy/.hunter/_Base/5659b15/252be92/8a1641b/Install/lib/libgtestd.a -lpthread 
